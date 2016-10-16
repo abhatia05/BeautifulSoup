@@ -4,4 +4,5 @@ Now a days I am learning this Beautiful Soup. Which is used to extract the detai
 
 I am going to put a number of tutorials to learn, Hope it can have details of people what they wanted.
 
-Tutorial 1: bs1.py
+Tutorial 1: bs1.py  A sample program to convert "html" in "Good html".
+
